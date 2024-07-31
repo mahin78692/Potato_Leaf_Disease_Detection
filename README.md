@@ -1,1 +1,2 @@
 # Potato_Leaf_Disease_Detection
+Potato leaf disease detection using Convolutional Neural Networks (CNN) involves training a deep learning model to classify images of potato leaves as healthy or diseased. The process includes collecting and preprocessing a large dataset of leaf images, designing and training a CNN to recognize disease patterns, and deploying the model for real-time diagnosis. This approach enables early and accurate disease detection, helping farmers manage their crops more effectively and improving overall agricultural productivity.
